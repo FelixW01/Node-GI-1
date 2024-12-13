@@ -9,3 +9,4 @@
 
 ## Deliverable 3: Hosted Weather App 
 https://weatherbuddy-66qx.onrender.com/
+![2](https://github.com/user-attachments/assets/96167c9e-62e1-4f37-856e-42169991566a)
