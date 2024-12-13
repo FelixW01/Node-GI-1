@@ -5,6 +5,7 @@
 
 
 ## Deliverable 2: Note Taking App
+![3](https://github.com/user-attachments/assets/9853206e-aa99-4f6d-9e94-1d3978d6836c)
 
 
 ## Deliverable 3: Hosted Weather App 
